@@ -50,7 +50,7 @@
                     </div>
                     <div class="instructor-details">
                         <h2>I'm Dr. Kastro Kiran V</h2>
-                        <p>AWS and DevOps Trainer</p>
+                        <p>MLOps Engineer</p>
                     </div>
                 </div>
                 <div class="hero-stats">
