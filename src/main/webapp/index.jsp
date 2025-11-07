@@ -78,7 +78,7 @@
     <!-- Course Cards Section -->
     <section id="courses" class="courses-section">
         <div class="section-header">
-            <h2>Master the DevOps Stack</h2>
+            <h2>Master the DevOps Tools</h2>
             <p>Comprehensive training on industry-leading DevOps tools and practices</p>
         </div>
         
